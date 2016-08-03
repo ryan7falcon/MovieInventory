@@ -1,0 +1,12 @@
+C:\Users\Ryan\Dropbox\study\term4\CSharp\VS\InventoryApp\InventoryApp\bin\Debug\InventoryApp.exe.config
+C:\Users\Ryan\Dropbox\study\term4\CSharp\VS\InventoryApp\InventoryApp\bin\Debug\InventoryApp.exe
+C:\Users\Ryan\Dropbox\study\term4\CSharp\VS\InventoryApp\InventoryApp\bin\Debug\InventoryApp.pdb
+C:\Users\Ryan\Dropbox\study\term4\CSharp\VS\InventoryApp\InventoryApp\obj\Debug\InventoryApp.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Dropbox\study\term4\CSharp\VS\InventoryApp\InventoryApp\obj\Debug\InventoryApp.CustomerForm.resources
+C:\Users\Ryan\Dropbox\study\term4\CSharp\VS\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Form1.resources
+C:\Users\Ryan\Dropbox\study\term4\CSharp\VS\InventoryApp\InventoryApp\obj\Debug\InventoryApp.MovieForm.resources
+C:\Users\Ryan\Dropbox\study\term4\CSharp\VS\InventoryApp\InventoryApp\obj\Debug\InventoryApp.Properties.Resources.resources
+C:\Users\Ryan\Dropbox\study\term4\CSharp\VS\InventoryApp\InventoryApp\obj\Debug\InventoryApp.csproj.GenerateResource.Cache
+C:\Users\Ryan\Dropbox\study\term4\CSharp\VS\InventoryApp\InventoryApp\obj\Debug\InventoryApp.exe
+C:\Users\Ryan\Dropbox\study\term4\CSharp\VS\InventoryApp\InventoryApp\obj\Debug\InventoryApp.pdb
+C:\Users\Ryan\Dropbox\study\term4\CSharp\VS\InventoryApp\InventoryApp\obj\Debug\InventoryApp.TransactionForm.resources
